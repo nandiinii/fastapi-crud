@@ -7,5 +7,6 @@ def individual_data(employee):
         "Employee Position": employee["emp_position"]
     }
 
+
 def all_data(employees):
     return [individual_data(employee) for employee in employees]

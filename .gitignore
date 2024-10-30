@@ -16,7 +16,6 @@ venv/
 
 # Jupyter Notebook Checkpoints
 .ipynb_checkpoints/
-
 # Coverage Reports
 .coverage
 coverage.xml
@@ -35,7 +34,6 @@ build/
 
 # Logs
 *.log
-
 # Sensitive Files
 *.secrets
 *.key
