@@ -1,0 +1,15 @@
+# Ignore Python cache and other unnecessary files
+__pycache__/
+*.pyc
+*.pyo
+
+# Ignore virtual environments
+venv/
+*.env
+
+# Ignore Docker and build files
+Dockerfile
+docker-compose.yaml
+
+# Ignore test results
+.pytest_cache/

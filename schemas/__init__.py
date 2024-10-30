@@ -1,0 +1,1 @@
+from .schemas import individual_data,all_data
