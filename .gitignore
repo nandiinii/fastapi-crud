@@ -1,3 +1,5 @@
+
+
 # Python Bytecode
 __pycache__/
 *.py[cod]
@@ -7,8 +9,7 @@ __pycache__/
 
 # Virtual Environment
 venv/
-.env/
-.venv/
+
 
 # IDE and Editor Directories
 .vscode/
@@ -16,6 +17,7 @@ venv/
 
 # Jupyter Notebook Checkpoints
 .ipynb_checkpoints/
+
 # Coverage Reports
 .coverage
 coverage.xml
@@ -34,6 +36,7 @@ build/
 
 # Logs
 *.log
+
 # Sensitive Files
 *.secrets
 *.key
